@@ -12,6 +12,20 @@ Read [`problem_statement.md`](./problem_statement.md) for the complete challenge
 
 ---
 
+## 🏆 Competition Results & Leaderboard
+
+| Category | Score | Max | Notes |
+| :--- | :---: | :---: | :--- |
+| **Output CSV** | **22.5** | 30 | **75.0%** prediction accuracy on hidden golden test cases |
+| **AI Judge Interview** | **19.8** | 30 | **66.0%** score on live voice architectural defense |
+| **Chat Transcript** | **5.7** | 10 | **57.0%** score on trajectory compliance and agent audit log |
+| **Code Implementation** | **2.4** | 30 | Deterministic engine evaluation |
+| **Total Score** | **50.4** | 100 | **Rank #343** |
+
+![HackerRank Orchestrate Leaderboard](images/leaderboard.png)
+
+---
+
 ## Quick Start
 
 Clone the repository and move into the project directory:
